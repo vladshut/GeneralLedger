@@ -16,7 +16,7 @@
     },
     
     "require" : {
-        "icomefromthenet/dbal-gateway" : "^1.1.0",
+        "vladshut/dbal-gateway" : "^1.1.0",
         "pimple/pimple"                : "3.0.*",
         "psr/log"                      : "1.0.*",
         "bluem/tree"                   : "@stable",
